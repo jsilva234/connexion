@@ -14,7 +14,7 @@ In your command line, type this:
 
 .. code-block:: bash
 
-    $ pip install connexion[swagger-ui]
+    $ pip install "connexion[swagger-ui]"
 
 
 Running It
